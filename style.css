@@ -1,4 +1,10 @@
 /*CSS Document*/
+
 body {
     margin:0;
+    font-family:"Trebuchet MS", Arial, Verdana;
+    font-size:0.74em;
+    color:#efff16;
+    background-color: #360b0b;
+    text-align:left;
     }
